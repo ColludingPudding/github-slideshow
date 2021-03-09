@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+https://sayingimages.com/wp-content/uploads/whats-driving-you-nuts-squirrel-meme.jpg
 Use the left arrow to go back!
